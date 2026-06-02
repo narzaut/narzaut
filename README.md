@@ -7,3 +7,5 @@ big chunk of my work also lives closer to the metal — managing infrastructure,
 these days agentic engineering has my full attention 🤖
 
 i hang out here for open source, side projects, and the occasional deep rabbit hole 🕳️
+
+fun fact about myself: built an AI-assisted vulnerability research pipeline that discovered and exploited a zero-day in a signed Windows kernel driver. achieved arbitrary kernel code execution via DSE bypass and PatchGuard circumvention
