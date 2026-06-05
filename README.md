@@ -8,4 +8,7 @@ these days agentic engineering has my full attention 🤖
 
 i hang out here for open source, side projects, and the occasional deep rabbit hole 🕳️
 
-fun fact about myself: [built an AI-assisted vulnerability research pipeline that discovered and exploited a zero-day in a signed Windows kernel driver. achieved arbitrary kernel code execution via DSE bypass and PatchGuard skip on a stock and unmodified version of Windows 11.25H2](https://github.com/narzaut/narzaut/blob/main/kernel-driver-vulnerability-research-system.md)
+------
+
+#### lately, I've been enjoying learning about OS internals and system vulnerabilities
+[built an AI-assisted vulnerability research pipeline that discovered and exploited a zero-day in a signed Windows kernel driver. achieved arbitrary kernel code execution via DSE bypass and PatchGuard skip on a stock and unmodified version of Windows 11 - 25H2](https://github.com/narzaut/narzaut/blob/main/kernel-driver-vulnerability-research-system.md)
